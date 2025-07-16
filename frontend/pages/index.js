@@ -55,14 +55,14 @@ export default function Home() {
         <div className="header flex ">
           <img src="/applogo.jpeg" alt="Logo" className='h-16 w-16 rounded-md shadow-md ' />
         </div>
-        <img src="/login-vector.svg" alt="LoginVector" className='mx-16' />
+        <img src="/login-vector.jpg" alt="LoginVector" className='mx-16' />
       </div>
 
       {/* Section 2: Login and Register */}
       <div className="w-full relative lg:w-1/2 py-8 px-6 lg:py-24 lg:px-0 h-screen flex items-center justify-center dark:bg-slate-950">
         <div className="inner-box w-full lg:w-6/12 h-full">
-          <h3 className='text-3xl font-bold text-gray-900 dark:text-gray-100'>Login to NoteSync</h3>
-          <p className='text-xs mt-2 font-medium'>Please enter your credentials to login to NoteSync.</p>
+          <h3 className='text-3xl font-bold text-gray-900 dark:text-gray-100'>Login to NoteNest</h3>
+          <p className='text-xs mt-2 font-medium'>Please enter your credentials to login to NoteNest.</p>
           <div className="form mt-8">
             <div className="mb-6">
               <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Email</label>
